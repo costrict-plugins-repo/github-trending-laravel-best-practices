@@ -1,0 +1,12 @@
+{
+  "name": "laravel-best-practices",
+  "description": "Laravel framework skill for writing, reviewing, and testing Laravel applications — controllers, FormRequests, Eloquent, service classes, Blade, Policies, naming conventions, and Inertia (React + Vue) conventions.",
+  "version": "1.0.6",
+  "author": {
+    "name": "fperdomo",
+    "url": "https://github.com/fperdomo"
+  },
+  "homepage": "https://github.com/fperdomo/laravel-agent-skill",
+  "repository": "https://github.com/fperdomo/laravel-agent-skill",
+  "license": "MIT"
+}
